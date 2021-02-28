@@ -1,14 +1,14 @@
 [
 {
-  "modid": "examplemod",
-  "name": "Example Mod",
-  "description": "Example mod for commands and chat.",
+  "modid": "linuxlwjglkeyfix",
+  "name": "LinuxLWJGLKeyFix",
+  "description": "Fixes a Linux LWJGL bug which incorrectly registers Shift+2 and Shift+6.",
   "version": "${version}",
   "mcversion": "${mcversion}",
   "url": "",
   "updateUrl": "",
-  "authorList": ["ExampleDude","cindy_k"],
-  "credits": "The Forge and FML guys, for making this example",
+  "authorList": ["Qther"],
+  "credits": "",
   "logoFile": "",
   "screenshots": [],
   "dependencies": []

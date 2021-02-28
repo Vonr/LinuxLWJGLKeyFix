@@ -14,8 +14,8 @@ buildscript {
 apply plugin: 'net.minecraftforge.gradle.forge'
 
 version = "1.0"
-group= "com.example.examplemod" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
-archivesBaseName = "ExampleMod"
+group= "dev.qther" // http://maven.apache.org/guides/mini/guide-naming-conventions.html
+archivesBaseName = "LinuxLWJGLKeyFix"
 
 sourceCompatibility = targetCompatibility = 1.8
 compileJava.options.encoding = 'UTF-8'
