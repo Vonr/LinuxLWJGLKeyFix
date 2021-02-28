@@ -1,0 +1,16 @@
+[
+{
+  "modid": "examplemod",
+  "name": "Example Mod",
+  "description": "Example mod for commands and chat.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["ExampleDude","cindy_k"],
+  "credits": "The Forge and FML guys, for making this example",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
